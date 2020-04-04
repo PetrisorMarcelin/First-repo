@@ -1,2 +1,2 @@
 # First-repo
-github is good
+GitHub is great
